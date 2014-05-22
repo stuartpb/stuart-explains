@@ -1,0 +1,1 @@
+Web pages are just text: it's the web browsers that turn them into fancy interactive pages and things like that.

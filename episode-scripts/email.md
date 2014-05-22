@@ -1,0 +1,1 @@
+Email predates the Internet. Originally, email was sent between multiple users on the same computer, computers being big hulking things that host multiple people and what not.
